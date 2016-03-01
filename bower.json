@@ -1,0 +1,29 @@
+{
+  "name": "threejs-skeleton",
+  "authors": [
+    "will-sklenars <will.sklenars@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "jquery": "~2.2.0",
+    "threex.windowresize": "*",
+    "tween.js": "tweenjs#~16.3.4",
+    "stats.js": "mrdoob/stats.js#r14",
+    "threex.rendererstats": "*",
+    "lodash": "^4.2.1",
+    "threex.domevents": "*"
+  }
+}

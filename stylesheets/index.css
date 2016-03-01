@@ -1,0 +1,15 @@
+.threejs-hover {
+  cursor: pointer;
+}
+
+#controls {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  color:  white;
+}
+
+body {
+  padding : 0;
+  margin : 0;
+}
