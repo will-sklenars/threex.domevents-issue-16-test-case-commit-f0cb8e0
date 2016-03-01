@@ -24,6 +24,6 @@
     "stats.js": "mrdoob/stats.js#r14",
     "threex.rendererstats": "*",
     "lodash": "^4.2.1",
-    "threex.domevents": "*"
+    "threex.domevents": "https://github.com/jeromeetienne/threex.domevents.git#f0cb8e0e6972fae9e28b7d2e6a77348cdd4ac2ad"
   }
 }
